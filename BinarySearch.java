@@ -1,8 +1,7 @@
 import java.util.*;
-//BinarySearch through inOrder Traversel
-//visit left node
-//visit root node
-//visit right node
+
+//Code by M. Shaihu Abdul Kadhir
+
 
 public class BinarySearch{
 
